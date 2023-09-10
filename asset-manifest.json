@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pedroebtorres-portfolio/static/css/main.bb073d6b.css",
+    "main.js": "/pedroebtorres-portfolio/static/js/main.e7388e44.js",
+    "static/media/pedroebtorres.jpeg": "/pedroebtorres-portfolio/static/media/pedroebtorres.5baadaaa5554fac2a7e2.jpeg",
+    "static/media/wave-haikei.svg": "/pedroebtorres-portfolio/static/media/wave-haikei.ec20f14678378c069b23.svg",
+    "index.html": "/pedroebtorres-portfolio/index.html",
+    "main.bb073d6b.css.map": "/pedroebtorres-portfolio/static/css/main.bb073d6b.css.map",
+    "main.e7388e44.js.map": "/pedroebtorres-portfolio/static/js/main.e7388e44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb073d6b.css",
+    "static/js/main.e7388e44.js"
+  ]
+}
